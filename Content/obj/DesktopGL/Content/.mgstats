@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Ricky/Coding/Games/Tetris/Content/Button.spritefont","C:/Users/Ricky/Coding/Games/Tetris/Content/bin/DesktopGL/Content/Button.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70690,0.1715486
+"C:/Users/Ricky/Coding/Games/Tetris/Content/Score.spritefont","C:/Users/Ricky/Coding/Games/Tetris/Content/bin/DesktopGL/Content/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.0115593
+"C:/Users/Ricky/Coding/Games/Tetris/Content/Title.spritefont","C:/Users/Ricky/Coding/Games/Tetris/Content/bin/DesktopGL/Content/Title.xnb","FontDescriptionProcessor","SpriteFontContent",2005,267298,0.0274879

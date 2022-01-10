@@ -1,0 +1,24 @@
+// The name of a function depends on both the return type and the semantic meaning of the returned value
+
+// For bools
+// E.g. Avoid checkValid() and to isValid() instead
+    // isValid() makes it very clear that true = valid and false = not vlaid, whilst checkValid() does not necessarily imply that true = valid and false = not valid
+
+
+
+// Static variables:
+    // Any magic numbers should be a static variable
+        // I.e. Any number that is used in multiple places independently, that do not depend on the instance of an object. 
+
+
+// Static functions:
+    // Any functions that do not rely on internal state should largely be static  
+        // This is also valuable from a readability perspective. 
+
+// Never use multiple sprite batches
+
+
+// Todo:
+    // Add a start button
+    // Add a restart + finals score button
+
